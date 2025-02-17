@@ -7,5 +7,6 @@ int main(){
     n=&b;
     m=&a;
     printf("After swapping:%d %d\n",*n,*m);
+        printf("After swapping:%d %d\n",*n,*m);
 return 0;
 }
